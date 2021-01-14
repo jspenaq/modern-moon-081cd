@@ -20,4 +20,4 @@ Vestibulum blandit sem mattis metus blandit pharetra at at ipsum. Vestibulum luc
 ![Gif_prueba](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fplants-are-friends&psig=AOvVaw1ZffwDHD33SN16T__t5LUE&ust=1610737712772000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOiq2d2PnO4CFQAAAAAdAAAAABAO)
 
 
-![Gif_prueba](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.healthline.com%2Fhealth%2Fforget-you-have-plants-11-types-that-will-forgive-you&psig=AOvVaw09w7a_kaFrLIpqrwlhefvE&ust=1610740554333000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOiZvrmanO4CFQAAAAAdAAAAABAJ)
+![Planta_prueba](https://post.healthline.com/wp-content/uploads/2020/05/435791-Forget-You-Have-Plants-11-Types-That-Will-Forgive-You_Thumnail.jpg)
