@@ -6,11 +6,10 @@ sections:
     template: hero_section
     section_id: hero_section
     background_image: images/header.jpg
-    content: >-
-      # Real, beautiful plants right to your door
+    content: |
+      # Reales y hermosas plantas justo en tu puerta
 
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+      Que esperas? Ponle verde a tu vida.
     actions:
       - type: action
         template: action
