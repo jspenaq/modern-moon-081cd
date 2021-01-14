@@ -17,7 +17,7 @@ template: product
 Vestibulum blandit sem mattis metus blandit pharetra at at ipsum. Vestibulum luctus quis turpis ac sollicitudin. Etiam ultricies pharetra velit. Nulla diam diam, maximus gravida efficitur eu, ultricies quis orci. Donec congue pharetra massa, ut venenatis nibh volutpat vel. Quisque eu sapien arcu. Nunc feugiat dictum tincidunt. Etiam sodales tellus tempus auctor vehicula. Praesent eget sapien dignissim, vehicula quam id, vehicula libero. Fusce sagittis gravida nulla ac bibendum. Duis lacinia egestas fringilla. Fusce quis metus semper, molestie massa finibus, laoreet magna. Aliquam gravida ipsum id nisl efficitur aliquam.
 
 
-![Gif_prueba](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fplants-are-friends&psig=AOvVaw1ZffwDHD33SN16T__t5LUE&ust=1610737712772000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOiq2d2PnO4CFQAAAAAdAAAAABAO)
+![Gif_prueba](https://media2.giphy.com/media/3o6ZtaClRw5uXz18JO/giphy.gif)
 
 
 ![Planta_prueba](https://post.healthline.com/wp-content/uploads/2020/05/435791-Forget-You-Have-Plants-11-Types-That-Will-Forgive-You_Thumnail.jpg)
