@@ -52,6 +52,15 @@ fields:
   default: product
   config:
     required: true
+- name: fechatest
+  type: datetime
+  label: FechaTest
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
 pages:
 - src/pages/products/plant1.md
 - src/pages/products/plant2.md
